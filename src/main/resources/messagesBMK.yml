@@ -1,0 +1,7 @@
+NotEmpty:
+    poll:
+        question: Question is a required field.
+
+Size:
+    poll:
+        options: Options must be greater than {2} and less that {1} 
